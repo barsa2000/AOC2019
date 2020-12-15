@@ -12,8 +12,8 @@ Advent of Code 2019 solutions written in [Rust](https://www.rust-lang.org/) :cra
 
 | Problem                                                                      | Solution                 | #1  |          #1 Answer | #2  |           #2 Answer |
 | :--------------------------------------------------------------------------- | :----------------------- | :-: | -----------------: | :-: | ------------------: |
-| [Day 1: The Tyranny of the Rocket Equa](https://adventofcode.com/2019/day/1) | [day01.rs](src/day01.rs) |  ✓  |       **3297626**  |  ✓  |         **4943578** |
-| [Day 2: 1202 Program A](https://adventofcode.com/2019/day/2)                 | [day02.rs](src/day02.rs) |     |                    |     |                     |
+| [Day 1: The Tyranny of the Rocket Equa](https://adventofcode.com/2019/day/1) | [day01.rs](src/day01.rs) |  ✓  |        **3297626** |  ✓  |         **4943578** |
+| [Day 2: 1202 Program A](https://adventofcode.com/2019/day/2)                 | [day02.rs](src/day02.rs) |     |        **2894520** |     |            **9342** |
 | [Day 3: Crossed W](https://adventofcode.com/2019/day/3)                      | [day03.rs](src/day03.rs) |     |                    |     |                     |
 | [Day 4: Secure Conta](https://adventofcode.com/2019/day/4)                   | [day04.rs](src/day04.rs) |     |                    |     |                     |
 | [Day 5: Sunny with a Chance of Aster](https://adventofcode.com/2019/day/5)   | [day05.rs](src/day05.rs) |     |                    |     |                     |
